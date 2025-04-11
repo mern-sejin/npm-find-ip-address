@@ -1,0 +1,25 @@
+{
+  "name": "find-ip-address",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mern-sejin/npm-find-ip-address.git"
+  },
+  "keywords": [
+    "ip address fetch",
+    "ip address",
+    "address",
+    "ip"
+  ],
+  "author": "Sejin Ahmed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mern-sejin/npm-find-ip-address/issues"
+  },
+  "homepage": "https://github.com/mern-sejin/npm-find-ip-address#readme",
+  "description": "A simple and lightweight custom React hook to fetch the user's public IP address using ipify.org",
+  "dependencies": {
+    "react": "^19.1.0"
+  }
+}
