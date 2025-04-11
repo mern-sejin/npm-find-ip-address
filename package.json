@@ -18,8 +18,5 @@
     "url": "https://github.com/mern-sejin/npm-find-ip-address/issues"
   },
   "homepage": "https://github.com/mern-sejin/npm-find-ip-address#readme",
-  "description": "A simple and lightweight custom React hook to fetch the user's public IP address using ipify.org",
-  "dependencies": {
-    "react": "^19.1.0"
-  }
+  "description": "A simple and lightweight custom React hook to fetch the user's public IP address using ipify.org"
 }
